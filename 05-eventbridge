@@ -1,0 +1,18 @@
+# AWS EventBridge Automation
+
+## 📌 Overview
+In this lab, I implemented event-driven automation using EventBridge.
+
+## 🚀 What I Did
+- Created event rules
+- Triggered actions based on events
+- Integrated with AWS services
+
+## 🛠️ Services Used
+- Amazon EventBridge
+
+## 📊 Outcome
+Learned event-driven architecture and automation.
+
+## 💡 Notes
+Helps in building scalable and loosely coupled systems.
