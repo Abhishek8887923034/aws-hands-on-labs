@@ -1,1 +1,22 @@
+# AWS CloudWatch Monitoring
 
+## 📌 Overview
+In this lab, I configured monitoring for AWS resources using CloudWatch.
+
+## 🚀 What I Did
+- Created CloudWatch metrics
+- Configured CPU utilization alarms
+- Tested alert triggering
+
+## 🛠️ Services Used
+- Amazon EC2
+- Amazon CloudWatch
+
+## 📊 Outcome
+Learned how to monitor system performance and set alerts.
+
+## 📸 Screenshots
+Available in screenshots folder.
+
+## 💡 Notes
+This lab helped me understand real-time monitoring in cloud environments.
