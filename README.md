@@ -1,100 +1,86 @@
-<h1 align="center">🚀 AWS Hands-on Labs</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Tripathi</h1>
 
 <p align="center">
-  📌 Transitioning from Infrastructure (SAN Storage) to Cloud & DevOps  
+Infrastructure & Cloud Enthusiast | AWS | Azure | Kubernetes
 </p>
 
 <p align="center">
-  https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge
-  https://img.shields.io/badge/DevOps-Learning-blue?style=for-the-badge
-  .shields.io/badge/Hands--on-Projects-green?style=for-the-badge">
+Building skills today to grow in Cloud & DevOps 🚀
 </p>
 
 ---
 
-## 📊 Project Overview
-This repository contains my **hands-on AWS labs** completed using AWS Skill Builder.  
-Focused on **monitoring, automation, containers, and cloud services** with real-world scenarios.
+## 👨‍💻 About Me
 
----
-
-## 🧠 Skills Covered
-
-- ✅ Cloud Monitoring (CloudWatch & Grafana)  
-- ✅ Event-driven Automation (EventBridge)  
-- ✅ Messaging System (Amazon SQS)  
-- ✅ Container Deployment (AWS Fargate)  
-- ✅ Database Management (Amazon RDS)  
-
----
-
-## 📂 Labs Included
-
-| #  | Lab Name                     | Description |
-|----|----------------------------|------------|
-| 01 | CloudWatch Monitoring       | Metrics & alerts setup |
-| 02 | Grafana EC2 Monitoring      | Dashboard & visualization |
-| 03 | RDS Setup                  | Database deployment |
-| 04 | SQS Queue                 | Message queue system |
-| 05 | EventBridge               | Event-driven automation |
-| 06 | Fargate                  | Container deployment |
-
----
-
-## 📈 Learning Focus
-
-<p>
-🔹 Monitoring & Observability <br>
-🔹 Cloud Infrastructure <br>
-🔹 DevOps Fundamentals <br>
-🔹 Real-world AWS Services
-</p>
-
----
-
-## 🎯 Goal
-
-To gain **hands-on expertise in Cloud & DevOps** and build real-world project experience.
+- Currently working on **Infrastructure & Storage (Banking Domain)**
+- Learning **DevOps (Docker, Kubernetes, CI/CD, Terraform)**
+- Hands-on experience with **AWS labs and cloud services**
+- Strong background in **Linux, Networking & SAN Storage (NetApp)**
+- Interested in **Automation & Cloud Infrastructure**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p>
-  AWS &nbsp;|&nbsp;
-  CloudWatch &nbsp;|&nbsp;
-  Grafana &nbsp;|&nbsp;
-  RDS &nbsp;|&nbsp;
-  SQS &nbsp;|&nbsp;
-  EventBridge &nbsp;|&nbsp;
-  Fargate
+- ☁️ AWS | Azure  
+- 🐳 Docker | Kubernetes  
+- 🔄 CI/CD (Jenkins, GitHub Actions)  
+- ⚙️ Terraform | Infrastructure as Code  
+- 📊 Monitoring (CloudWatch, Grafana)  
+- 💻 Linux | Networking  
+
+---
+
+## 🚀 Projects
+
+### 🔹 Docker + Nginx Deployment
+- Deployed static website using Docker & Nginx  
+- Created custom container images  
+
+### 🔹 Jenkins CI/CD Pipeline
+- Built CI/CD pipeline for automated build & deployment  
+
+### 🔹 AWS Hands-on Labs
+- CloudWatch monitoring  
+- RDS setup  
+- SQS messaging  
+- EventBridge automation  
+- Fargate container deployment  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek8887923034&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔗 Live Project (UI Version)
+## 🔥 GitHub Streak
 
-👉 *(Enable GitHub Pages and update link)*  
-`https://yourusername.github.io/aws-hands-on-labs/`
-
----
-
-## 💡 Why This Repo?
-
-✔️ Real AWS hands-on practice  
-✔️ Interview-ready projects  
-✔️ Clean documentation  
-✔️ Shows Cloud + DevOps transition  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Abhishek8887923034&theme=tokyonight" />
+</p>
 
 ---
 
-## 👨‍💻 Author
+## 🎥 My YouTube Channel
 
-**Abhishek Tripathi**  
-Project Engineer | Cloud & DevOps Learner  
+I share DevOps projects & cloud learning:
+
+👉 https://www.youtube.com/@abhishek.tripathi.devops
+
+---
+
+## 📞 Connect with me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/abhishek8887923034  
+- 📺 YouTube: https://www.youtube.com/@abhishek.tripathi.devops  
+- 📧 Email: abhishektripathi.23@outlook.com  
 
 ---
 
 <p align="center">
-⭐ If you find this useful, give it a star!
+💡 DevOps | Cloud | Automation  
 </p>
