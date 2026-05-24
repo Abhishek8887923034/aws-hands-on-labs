@@ -1,0 +1,20 @@
+# Container Deployment using AWS Fargate
+
+## 📌 Overview
+This lab focuses on deploying containerized applications using Fargate.
+
+## 🚀 What I Did
+- Created ECS cluster
+- Configured Fargate tasks
+- Deployed container application
+
+## 🛠️ Services Used
+- Amazon ECS
+- AWS Fargate
+
+## 📊 Outcome
+Learned serverless container deployment.
+
+## 💡 Notes
+No need to manage servers while running containers.
+
