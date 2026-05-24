@@ -1,0 +1,20 @@
+# EC2 Monitoring using Amazon Managed Grafana
+
+## 📌 Overview
+This lab focuses on visualizing EC2 metrics using Grafana dashboards.
+
+## 🚀 What I Did
+- Connected CloudWatch data source
+- Created monitoring dashboards
+- Visualized EC2 metrics
+
+## 🛠️ Services Used
+- Amazon EC2
+- Amazon CloudWatch
+- Amazon Managed Grafana
+
+## 📊 Outcome
+Gained hands-on experience in monitoring and visualization.
+
+## 💡 Notes
+I already had basic experience with Grafana, this helped me extend it to AWS.
