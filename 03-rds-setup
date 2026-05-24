@@ -1,0 +1,18 @@
+# AWS RDS Setup (MySQL/PostgreSQL)
+
+## 📌 Overview
+In this lab, I deployed and managed a relational database using Amazon RDS.
+
+## 🚀 What I Did
+- Launched RDS instance
+- Configured database settings
+- Connected to database from client
+
+## 🛠️ Services Used
+- Amazon RDS
+
+## 📊 Outcome
+Learned how to manage databases in cloud without handling infrastructure.
+
+## 💡 Notes
+Useful for backend and application-based systems.
