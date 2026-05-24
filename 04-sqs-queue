@@ -1,0 +1,18 @@
+# AWS SQS Queue Implementation
+
+## 📌 Overview
+This lab demonstrates message queue implementation using Amazon SQS.
+
+## 🚀 What I Did
+- Created SQS queue
+- Sent and received messages
+- Tested message flow
+
+## 🛠️ Services Used
+- Amazon SQS
+
+## 📊 Outcome
+Understood asynchronous communication between services.
+
+## 💡 Notes
+Important concept for microservices architecture.
