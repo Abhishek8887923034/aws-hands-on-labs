@@ -1,86 +1,52 @@
-<h1 align="center">Hi 👋, I'm Abhishek Tripathi</h1>
+# AWS Hands-on Labs
 
-<p align="center">
-Infrastructure & Cloud Enthusiast | AWS | Azure | Kubernetes
-</p>
+This repository contains my hands-on AWS labs completed using AWS Skill Builder.
 
-<p align="center">
-Building skills today to grow in Cloud & DevOps 🚀
-</p>
+I am currently working in Infrastructure & Storage and learning Cloud and DevOps through practical labs.
 
 ---
 
-## 👨‍💻 About Me
+## 📂 Labs
 
-- Currently working on **Infrastructure & Storage (Banking Domain)**
-- Learning **DevOps (Docker, Kubernetes, CI/CD, Terraform)**
-- Hands-on experience with **AWS labs and cloud services**
-- Strong background in **Linux, Networking & SAN Storage (NetApp)**
-- Interested in **Automation & Cloud Infrastructure**
+- **01-cloudwatch-monitoring**  
+  Monitoring EC2 using CloudWatch (metrics & alarms)
 
----
+- **02-grafana-ec2-monitoring**  
+  Visualizing EC2 metrics using Amazon Managed Grafana
 
-## 🛠️ Tech Stack
+- **03-rds-setup**  
+  Database deployment using Amazon RDS
 
-- ☁️ AWS | Azure  
-- 🐳 Docker | Kubernetes  
-- 🔄 CI/CD (Jenkins, GitHub Actions)  
-- ⚙️ Terraform | Infrastructure as Code  
-- 📊 Monitoring (CloudWatch, Grafana)  
-- 💻 Linux | Networking  
+- **04-sqs-queue**  
+  Implementing message queue using Amazon SQS
 
----
+- **05-eventbridge**  
+  Automation using AWS EventBridge
 
-## 🚀 Projects
-
-### 🔹 Docker + Nginx Deployment
-- Deployed static website using Docker & Nginx  
-- Created custom container images  
-
-### 🔹 Jenkins CI/CD Pipeline
-- Built CI/CD pipeline for automated build & deployment  
-
-### 🔹 AWS Hands-on Labs
-- CloudWatch monitoring  
-- RDS setup  
-- SQS messaging  
-- EventBridge automation  
-- Fargate container deployment  
+- **06-fargate**  
+  Deploying containers using AWS Fargate
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 What I Learned
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek8887923034&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abhishek8887923034&theme=tokyonight" />
-</p>
+- Monitoring cloud resources using CloudWatch and Grafana  
+- Basics of event-driven architecture and automation  
+- Message-based communication using SQS  
+- Running containers without managing servers  
+- Managing databases in cloud using RDS  
 
 ---
 
-## 🎥 My YouTube Channel
+## 🎯 Purpose
 
-I share DevOps projects & cloud learning:
-
-👉 https://www.youtube.com/@abhishek.tripathi.devops
+These labs helped me understand how real cloud systems work and how services interact in production environments.
 
 ---
 
-## 📞 Connect with me
+## 📝 Note
 
-- 💼 LinkedIn: https://www.linkedin.com/in/abhishek8887923034  
-- 📺 YouTube: https://www.youtube.com/@abhishek.tripathi.devops  
-- 📧 Email: abhishektripathi.23@outlook.com  
-
----
-
-<p align="center">
-💡 DevOps | Cloud | Automation  
-</p>
+Each folder contains:
+- Lab steps  
+- Screenshots  
+- Key learnings  
